@@ -1,0 +1,27 @@
+_repo: Louisiana-Lou--13-A-Western-Story_29028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winter, William West
+    birthdate: 1881
+    deathdate: 1940
+    gutenberg_agent_id: '33648'
+    url: http://www.gutenberg.org/2009/agents/33648
+description: ''
+gutenberg_issued: '2009-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29028'
+  lccn: '22021805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: "Louisiana Lou\r\nA Western Story"
+url: http://www.gutenberg.org/ebooks/29028
